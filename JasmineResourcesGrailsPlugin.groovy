@@ -1,6 +1,6 @@
 class JasmineResourcesGrailsPlugin {
     // the plugin version
-    def version = "0.1.0"
+    def version = "0.1.2"
    // the version or versions of Grails the plugin is designed for
     def grailsVersion = "1.3.7 > *"
     // the other plugins this plugin depends on
@@ -16,7 +16,7 @@ class JasmineResourcesGrailsPlugin {
     def author = "Vladimír Oraný"
     def authorEmail = "vladimir.orany@appsatori.eu"
     def description = '''\
-Jasmine resources plugin bundled with 1.1.0 release.
+Jasmine resources plugin bundled with Jasmine release 1.3.1.
 '''
 
     // URL to the plugin's documentation
